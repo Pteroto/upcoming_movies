@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Upcoming Movies</string>
+    <string name="details_screen_title">Movie\'s Details</string>
+    <string name="details_screen_synopsis">Synopsis</string>
+    <string name="details_screen_genres">Genres:</string>
+    <string name="dialog_title">ERROR:</string>
+    <string name="no_connection_message">No internet connection</string>
+    <string name="unknown_error_message">Unknown Error</string>
+</resources>
